@@ -7,8 +7,13 @@ To help rescue crews and retrieve the lost passengers, you are challenged to pre
 Files:
 
 train.csv- Training Dataset
+
 test.csv- Testing Dataset
+
 df_predss - Predictions made on test.csv
+
 Spaceship Project ML.py- My approach to solving this problem. (Data Dictionary is given in this file)
+
+Through HyperParameter tuning and experimenting with different models, I was able to achieve an accuracy of 78.8% with Random Forest Classifier
 
 This project was taken from a kaggle competition. Enjoy :)
